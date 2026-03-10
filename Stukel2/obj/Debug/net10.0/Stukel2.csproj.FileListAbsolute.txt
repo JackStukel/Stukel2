@@ -1,0 +1,14 @@
+C:\Users\jstuk\OneDrive\Documents\ObjectOrientedProg\Stukel2\Stukel2\bin\Debug\net10.0\Stukel2.exe
+C:\Users\jstuk\OneDrive\Documents\ObjectOrientedProg\Stukel2\Stukel2\bin\Debug\net10.0\Stukel2.deps.json
+C:\Users\jstuk\OneDrive\Documents\ObjectOrientedProg\Stukel2\Stukel2\bin\Debug\net10.0\Stukel2.runtimeconfig.json
+C:\Users\jstuk\OneDrive\Documents\ObjectOrientedProg\Stukel2\Stukel2\bin\Debug\net10.0\Stukel2.dll
+C:\Users\jstuk\OneDrive\Documents\ObjectOrientedProg\Stukel2\Stukel2\bin\Debug\net10.0\Stukel2.pdb
+C:\Users\jstuk\OneDrive\Documents\ObjectOrientedProg\Stukel2\Stukel2\obj\Debug\net10.0\Stukel2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jstuk\OneDrive\Documents\ObjectOrientedProg\Stukel2\Stukel2\obj\Debug\net10.0\Stukel2.AssemblyInfoInputs.cache
+C:\Users\jstuk\OneDrive\Documents\ObjectOrientedProg\Stukel2\Stukel2\obj\Debug\net10.0\Stukel2.AssemblyInfo.cs
+C:\Users\jstuk\OneDrive\Documents\ObjectOrientedProg\Stukel2\Stukel2\obj\Debug\net10.0\Stukel2.csproj.CoreCompileInputs.cache
+C:\Users\jstuk\OneDrive\Documents\ObjectOrientedProg\Stukel2\Stukel2\obj\Debug\net10.0\Stukel2.dll
+C:\Users\jstuk\OneDrive\Documents\ObjectOrientedProg\Stukel2\Stukel2\obj\Debug\net10.0\refint\Stukel2.dll
+C:\Users\jstuk\OneDrive\Documents\ObjectOrientedProg\Stukel2\Stukel2\obj\Debug\net10.0\Stukel2.pdb
+C:\Users\jstuk\OneDrive\Documents\ObjectOrientedProg\Stukel2\Stukel2\obj\Debug\net10.0\Stukel2.genruntimeconfig.cache
+C:\Users\jstuk\OneDrive\Documents\ObjectOrientedProg\Stukel2\Stukel2\obj\Debug\net10.0\ref\Stukel2.dll
