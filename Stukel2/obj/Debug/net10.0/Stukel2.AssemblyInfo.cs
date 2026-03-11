@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Stukel2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+579041003b1e6ba350e25c00aaaf5f984d702d07")]
 [assembly: System.Reflection.AssemblyProductAttribute("Stukel2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Stukel2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
